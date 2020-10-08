@@ -1,4 +1,4 @@
-# compras
+# bto
 frutas = [ 'maça', 'banana']
 comidas = ['arroz', 'feijão']
 bebidas = ['suco', 'água']
